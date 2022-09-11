@@ -48,25 +48,6 @@
   font-weight: 300;
   color: #333;
 }
-.slide .quote-icon {
-  font-size: 30px;
-  color: #4070f4;
-}
-.slide .details {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-.details .name {
-  font-size: 14px;
-  font-weight: 600;
-  color: #333;
-}
-.details .job {
-  font-size: 12px;
-  font-weight: 400;
-  color: #333;
-}
 /* swiper button css */
 .nav-btn {
   height: 40px;
